@@ -1,0 +1,564 @@
+
+[
+ {
+   "name": "House of Cards",
+   "genre": "Political drama",
+   "date": "1-Feb-13",
+   "seasons": "6 seasons, 73 episodes",
+   "length": "42–59 min.",
+   "status": "Ended[1]"
+ },
+ {
+   "name": "Hemlock Grove",
+   "genre": "Horror/thriller",
+   "date": "19-Apr-13",
+   "seasons": "3 seasons, 33 episodes",
+   "length": "45–58 min.",
+   "status": "Ended[2]"
+ },
+ {
+   "name": "Orange Is the New Black",
+   "genre": "Comedy-drama",
+   "date": "11-Jul-13",
+   "seasons": "7 seasons, 91 episodes",
+   "length": "50–92 min.",
+   "status": "Ended[3]"
+ },
+ {
+   "name": "Marco Polo",
+   "genre": "Historical drama",
+   "date": "12-Dec-14",
+   "seasons": "2 seasons, 20 episodes",
+   "length": "48–65 min.",
+   "status": "Ended[4]"
+ },
+ {
+   "name": "Bloodline",
+   "genre": "Thriller",
+   "date": "20-Mar-15",
+   "seasons": "3 seasons, 33 episodes",
+   "length": "48–68 min.",
+   "status": "Ended[5]"
+ },
+ {
+   "name": "Daredevil",
+   "genre": "Superhero fiction/Crime drama/legal drama",
+   "date": "10-Apr-15",
+   "seasons": "3 seasons, 39 episodes",
+   "length": "46–61 min.",
+   "status": "Ended[6]"
+ },
+ {
+   "name": "Sense8",
+   "genre": "Science fiction",
+   "date": "5-Jun-15",
+   "seasons": "2 seasons, 24 episodes",
+   "length": "45–152 min.",
+   "status": "Ended[7]"
+ },
+ {
+   "name": "Narcos",
+   "genre": "Crime drama",
+   "date": "28-Aug-15",
+   "seasons": "3 seasons, 30 episodes",
+   "length": "43–60 min.",
+   "status": "Ended[8]"
+ },
+ {
+   "name": "Jessica Jones",
+   "genre": "Superhero fiction/Neo-noir/psychological thriller",
+   "date": "20-Nov-15",
+   "seasons": "3 seasons, 39 episodes",
+   "length": "44–56 min.",
+   "status": "Ended[9]"
+ },
+ {
+   "name": "Stranger Things",
+   "genre": "Science fiction/horror",
+   "date": "15-Jul-16",
+   "seasons": "3 seasons, 25 episodes",
+   "length": "42–78 min.",
+   "status": "Renewed[10]"
+ },
+ {
+   "name": "The Get Down",
+   "genre": "Musical drama",
+   "date": "12-Aug-16",
+   "seasons": "2 parts, 11 episodes",
+   "length": "50–93 min.",
+   "status": "Ended[11]"
+ },
+ {
+   "name": "Luke Cage",
+   "genre": "Superhero fiction/Neo-blaxploitation/neo-western",
+   "date": "30-Sep-16",
+   "seasons": "2 seasons, 26 episodes",
+   "length": "46–69 min.",
+   "status": "Ended[12]"
+ },
+ {
+   "name": "The Crown",
+   "genre": "Historical drama",
+   "date": "4-Nov-16",
+   "seasons": "3 seasons, 30 episodes",
+   "length": "47–61 min.",
+   "status": "Renewed for seasons 4 and 5 (final)[13][14]"
+ },
+ {
+   "name": "Gilmore Girls: A Year in the Life",
+   "genre": "Family drama",
+   "date": "25-Nov-16",
+   "seasons": "4 episodes",
+   "length": "88–102 min.",
+   "status": "Miniseries"
+ },
+ {
+   "name": "The OA",
+   "genre": "Mystery",
+   "date": "16-Dec-16",
+   "seasons": "2 parts, 16 episodes",
+   "length": "31–71 min.",
+   "status": "Ended[15]"
+ },
+ {
+   "name": "A Series of Unfortunate Events",
+   "genre": "Black comedy mystery",
+   "date": "13-Jan-17",
+   "seasons": "3 seasons, 25 episodes",
+   "length": "36–64 min.",
+   "status": "Ended[16]"
+ },
+ {
+   "name": "Iron Fist",
+   "genre": "Superhero fiction/Martial arts/business drama",
+   "date": "17-Mar-17",
+   "seasons": "2 seasons, 23 episodes",
+   "length": "49–61 min.",
+   "status": "Ended[17]"
+ },
+ {
+   "name": "13 Reasons Why",
+   "genre": "Teen drama/mystery",
+   "date": "31-Mar-17",
+   "seasons": "3 seasons, 39 episodes",
+   "length": "49–71 min.",
+   "status": "Final season due to premiere on June 5, 2020[18]"
+ },
+ {
+   "name": "Free Rein",
+   "genre": "Teen drama",
+   "date": "22-Jun-17",
+   "seasons": "3 seasons, 30 episodes",
+   "length": "25–34 min.",
+   "status": "Pending"
+ },
+ {
+   "name": "Gypsy",
+   "genre": "Psychological thriller",
+   "date": "30-Jun-17",
+   "seasons": "1 season, 10 episodes",
+   "length": "46–58 min.",
+   "status": "Ended[19]"
+ },
+ {
+   "name": "Ozark",
+   "genre": "Crime drama",
+   "date": "21-Jul-17",
+   "seasons": "3 seasons, 30 episodes",
+   "length": "52–80 min.",
+   "status": "Pending"
+ },
+ {
+   "name": "The Defenders",
+   "genre": "Superhero action/drama",
+   "date": "18-Aug-17",
+   "seasons": "8 episodes",
+   "length": "44–57 min.",
+   "status": "Miniseries"
+ },
+ {
+   "name": "Mindhunter",
+   "genre": "Crime drama",
+   "date": "13-Oct-17",
+   "seasons": "2 seasons, 19 episodes",
+   "length": "34–73 min.",
+   "status": "Pending"
+ },
+ {
+   "name": "Greenhouse Academy",
+   "genre": "Science fiction/teen drama",
+   "date": "8-Sep-17",
+   "seasons": "4 seasons, 40 episodes",
+   "length": "20–28 min.",
+   "status": "Pending"
+ },
+ {
+   "name": "The Punisher",
+   "genre": "Superhero fiction/Crime drama/conspiracy thriller",
+   "date": "17-Nov-17",
+   "seasons": "2 seasons, 26 episodes",
+   "length": "47–58 min.",
+   "status": "Ended[9]"
+ },
+ {
+   "name": "Godless",
+   "genre": "Western",
+   "date": "22-Nov-17",
+   "seasons": "7 episodes",
+   "length": "41–80 min.",
+   "status": "Miniseries"
+ },
+ {
+   "name": "Altered Carbon",
+   "genre": "Science fiction",
+   "date": "2-Feb-18",
+   "seasons": "2 seasons, 18 episodes",
+   "length": "43–66 min.",
+   "status": "Pending"
+ },
+ {
+   "name": "Seven Seconds",
+   "genre": "Crime drama",
+   "date": "23-Feb-18",
+   "seasons": "1 season, 10 episodes",
+   "length": "54–80 min.",
+   "status": "Ended[20]"
+ },
+ {
+   "name": "Lost in Space",
+   "genre": "Science fiction",
+   "date": "13-Apr-18",
+   "seasons": "2 seasons, 20 episodes",
+   "length": "39–66 min.",
+   "status": "Renewed for final season[21]"
+ },
+ {
+   "name": "The Ponysitters Club",
+   "genre": "Drama",
+   "date": "10-Aug-18",
+   "seasons": "2 seasons, 20 episodes",
+   "length": "23 min.",
+   "status": "Ended"
+ },
+ {
+   "name": "The Innocents",
+   "genre": "Supernatural fiction",
+   "date": "24-Aug-18",
+   "seasons": "1 season, 8 episodes",
+   "length": "46–56 min.",
+   "status": "Ended"
+ },
+ {
+   "name": "The Haunting",
+   "genre": "Horror anthology",
+   "date": "12-Oct-18",
+   "seasons": "1 season, 10 episodes",
+   "length": "43–71 min.",
+   "status": "Renewed[22]"
+ },
+ {
+   "name": "Chilling Adventures of Sabrina",
+   "genre": "Supernatural coming-of-age horror",
+   "date": "26-Oct-18",
+   "seasons": "3 parts, 28 episodes",
+   "length": "50–64 min.",
+   "status": "Renewed[23]"
+ },
+ {
+   "name": "Narcos: Mexico",
+   "genre": "Crime drama",
+   "date": "16-Nov-18",
+   "seasons": "2 seasons, 20 episodes",
+   "length": "45–70 min.",
+   "status": "Pending"
+ },
+ {
+   "name": "Tidelands",
+   "genre": "Supernatural crime drama",
+   "date": "14-Dec-18",
+   "seasons": "1 season, 8 episodes",
+   "length": "36–48 min.",
+   "status": "Ended"
+ },
+ {
+   "name": "The Umbrella Academy",
+   "genre": "Superhero action",
+   "date": "15-Feb-19",
+   "seasons": "1 season, 10 episodes",
+   "length": "45–60 min.",
+   "status": "Renewed[24]"
+ },
+ {
+   "name": "The Order",
+   "genre": "Supernatural horror drama",
+   "date": "7-Mar-19",
+   "seasons": "1 season, 10 episodes",
+   "length": "42–51 min.",
+   "status": "Renewed[25]"
+ },
+ {
+   "name": "Shadow",
+   "genre": "Thriller",
+   "date": "8-Mar-19",
+   "seasons": "1 season, 8 episodes",
+   "length": "40–49 min.",
+   "status": "Ended"
+ },
+ {
+   "name": "Black Summer",
+   "genre": "Zombie drama",
+   "date": "11-Apr-19",
+   "seasons": "1 season, 8 episodes",
+   "length": "21–45 min.",
+   "status": "Renewed[26]"
+ },
+ {
+   "name": "Chambers",
+   "genre": "Teen psychological thriller",
+   "date": "26-Apr-19",
+   "seasons": "1 season, 10 episodes",
+   "length": "38–51 min.",
+   "status": "Ended[27]"
+ },
+ {
+   "name": "The Society",
+   "genre": "Mystery drama",
+   "date": "10-May-19",
+   "seasons": "1 season, 10 episodes",
+   "length": "49–61 min.",
+   "status": "Renewed[28]"
+ },
+ {
+   "name": "What/If",
+   "genre": "Social thriller anthology",
+   "date": "24-May-19",
+   "seasons": "1 season, 10 episodes",
+   "length": "44–58 min.",
+   "status": "Pending"
+ },
+ {
+   "name": "When They See Us",
+   "genre": "Drama",
+   "date": "31-May-19",
+   "seasons": "4 episodes",
+   "length": "64–88 min.",
+   "status": "Miniseries"
+ },
+ {
+   "name": "Trinkets",
+   "genre": "Coming-of-age drama",
+   "date": "14-Jun-19",
+   "seasons": "1 season, 10 episodes",
+   "length": "22–29 min.",
+   "status": "Renewed for final season[29]"
+ },
+ {
+   "name": "Another Life",
+   "genre": "Science fiction drama",
+   "date": "25-Jul-19",
+   "seasons": "1 season, 10 episodes",
+   "length": "37–61 min.",
+   "status": "Renewed[30]"
+ },
+ {
+   "name": "Wu Assassins",
+   "genre": "Supernatural martial arts drama",
+   "date": "8-Aug-19",
+   "seasons": "1 season, 10 episodes",
+   "length": "40–51 min.",
+   "status": "Pending"
+ },
+ {
+   "name": "The Dark Crystal: Age of Resistance",
+   "genre": "Fantasy",
+   "date": "30-Aug-19",
+   "seasons": "1 season, 10 episodes",
+   "length": "47–61 min.",
+   "status": "Pending"
+ },
+ {
+   "name": "The I-Land",
+   "genre": "Science fiction thriller",
+   "date": "12-Sep-19",
+   "seasons": "7 episodes",
+   "length": "37–43 min.",
+   "status": "Miniseries"
+ },
+ {
+   "name": "Unbelievable",
+   "genre": "Drama",
+   "date": "13-Sep-19",
+   "seasons": "8 episodes",
+   "length": "44–59 min.",
+   "status": "Miniseries"
+ },
+ {
+   "name": "Criminal: UK",
+   "genre": "Police procedural anthology series",
+   "date": "20-Sep-19",
+   "seasons": "1 season, 3 episodes",
+   "length": "43–44 min.",
+   "status": "Pending"
+ },
+ {
+   "name": "Raising Dion",
+   "genre": "Superhero/Science fiction drama",
+   "date": "4-Oct-19",
+   "seasons": "1 season, 9 episodes",
+   "length": "39–51 min.",
+   "status": "Renewed[31]"
+ },
+ {
+   "name": "Dolly Parton's Heartstrings",
+   "genre": "Anthology series",
+   "date": "22-Nov-19",
+   "seasons": "1 season, 8 episodes",
+   "length": "57–86 min.",
+   "status": "Pending"
+ },
+ {
+   "name": "V Wars",
+   "genre": "Science fiction horror drama",
+   "date": "5-Dec-19",
+   "seasons": "1 season, 10 episodes",
+   "length": "37–57 min.",
+   "status": "Ended[32]"
+ },
+ {
+   "name": "Virgin River",
+   "genre": "Romantic drama",
+   "date": "6-Dec-19",
+   "seasons": "1 season, 10 episodes",
+   "length": "42–49 min.",
+   "status": "Renewed[33]"
+ },
+ {
+   "name": "Soundtrack",
+   "genre": "Musical drama",
+   "date": "18-Dec-19",
+   "seasons": "1 season, 10 episodes",
+   "length": "52–61 min.",
+   "status": "Ended[34]"
+ },
+ {
+   "name": "The Witcher",
+   "genre": "Fantasy drama",
+   "date": "20-Dec-19",
+   "seasons": "1 season, 8 episodes",
+   "length": "47–67 min.",
+   "status": "Renewed[35]"
+ },
+ {
+   "name": "Messiah",
+   "genre": "Thriller",
+   "date": "1-Jan-20",
+   "seasons": "1 season, 10 episodes",
+   "length": "38–55 min.",
+   "status": "Ended[36]"
+ },
+ {
+   "name": "Spinning Out",
+   "genre": "Drama",
+   "date": "1-Jan-20",
+   "seasons": "1 season, 10 episodes",
+   "length": "44–56 min.",
+   "status": "Ended[37]"
+ },
+ {
+   "name": "October Faction",
+   "genre": "Horror",
+   "date": "23-Jan-20",
+   "seasons": "1 season, 10 episodes",
+   "length": "36–49 min.",
+   "status": "Ended[32]"
+ },
+ {
+   "name": "The Stranger",
+   "genre": "Thriller",
+   "date": "30-Jan-20",
+   "seasons": "1 season, 8 episodes",
+   "length": "42–52 min.",
+   "status": "Pending"
+ },
+ {
+   "name": "Locke & Key",
+   "genre": "Horror teen drama",
+   "date": "7-Feb-20",
+   "seasons": "1 season, 10 episodes",
+   "length": "40–56 min.",
+   "status": "Renewed[38]"
+ },
+ {
+   "name": "Queen Sono",
+   "genre": "Crime drama",
+   "date": "28-Feb-20",
+   "seasons": "1 season, 6 episodes",
+   "length": "32–47 min.",
+   "status": "Renewed[39]"
+ },
+ {
+   "name": "Self Made: Inspired by the Life of Madam C. J. Walker",
+   "genre": "Biopic",
+   "date": "20-Mar-20",
+   "seasons": "4 episodes",
+   "length": "45–49 min.",
+   "status": "Miniseries"
+ },
+ {
+   "name": "The English Game",
+   "genre": "Historical drama",
+   "date": "20-Mar-20",
+   "seasons": "6 episodes",
+   "length": "43–55 min.",
+   "status": "Miniseries"
+ },
+ {
+   "name": "The Letter for the King",
+   "genre": "Fantasy",
+   "date": "20-Mar-20",
+   "seasons": "1 season, 6 episodes",
+   "length": "40–51 min.",
+   "status": "Pending"
+ },
+ {
+   "name": "Unorthodox",
+   "genre": "Drama",
+   "date": "26-Mar-20",
+   "seasons": "4 episodes",
+   "length": "52–55 min.",
+   "status": "Miniseries"
+ },
+ {
+   "name": "Outer Banks",
+   "genre": "Coming-of-age drama",
+   "date": "15-Apr-20",
+   "seasons": "1 season, 10 episodes",
+   "length": "46–56 min.",
+   "status": "Pending"
+ },
+ {
+   "name": "Hollywood",
+   "genre": "Drama",
+   "date": "1-May-20",
+   "seasons": "7 episodes",
+   "length": "44–57 min.",
+   "status": "Miniseries"
+ },
+ {
+   "name": "The Eddy",
+   "genre": "Musical drama",
+   "date": "8-May-20",
+   "seasons": "8 episodes",
+   "length": "54–69 min.",
+   "status": "Miniseries"
+ },
+ {
+   "name": "White Lines",
+   "genre": "Drama",
+   "date": "15-May-20",
+   "seasons": "1 season, 10 episodes",
+   "length": "50–63 min.",
+   "status": "Pending"
+ }
+]
+
