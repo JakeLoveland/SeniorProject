@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>407855990395-r08kfukd0j85vk34u3v3thdit6h0f259.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.407855990395-r08kfukd0j85vk34u3v3thdit6h0f259</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD9G2gF7orY2dxi_FSQ2V3Fj3WoF4rs1kw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>407855990395</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>JLoveland.SeniorProject</string>
+	<key>PROJECT_ID</key>
+	<string>seniorproject-2b078</string>
+	<key>STORAGE_BUCKET</key>
+	<string>seniorproject-2b078.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:407855990395:ios:7a83b5865806eb9b93c4de</string>
+	<key>DATABASE_URL</key>
+	<string>https://seniorproject-2b078.firebaseio.com</string>
+</dict>
+</plist>
